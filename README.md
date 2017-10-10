@@ -2,7 +2,7 @@
 This tool is brought to you by John Cena Collective and the Plumber Task Force. Through hard work, effort, and research, this tool lets you mess with Cryptic Titles without worrying about error reports getting you in trouble.
 
 ## Acknowledgements
-You have now violated Perfect World's/Cryptic's Terms of Service. I will not be held responsible for any bans, warning, and other unintended repercussions resulting from thereof.
+You have now violated Perfect World's/Cryptic's Terms of Service. I will not be held responsible for any bans, warning, and any other repercussions resulting from thereof. If you choose to proceed, you will be the only party responsible for anything that happens as a result of using this tool.
 
 You have been warned.
 
